@@ -28,8 +28,8 @@ const Portfolio = () => {
        </div>
          <h3>bestbuyclone</h3>
          <div className="portfolio__item-cta">
-           <a href="https://github.com/Abhishek-Bharti1/" className='btn' target='_blank'>Git Hub</a>
-         <a href="https://comforting-fairy-52b33b.netlify.app/"className='btn btn-primary' target='_blank'>Live Demo</a>
+           <a href="https://github.com/Abhishek-Bharti1/bestbuyclone" className='btn' target='_blank'>Git Hub</a>
+         <a href="https://bestbuy-clone-website.netlify.app/"className='btn btn-primary' target='_blank'>Live Demo</a>
          </div>
          
      </article>
