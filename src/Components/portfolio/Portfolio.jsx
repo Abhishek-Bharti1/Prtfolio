@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/me-p.png'
 import IMG2 from '../../assets/me-pp.png'
-
+import Img4 from '../../assets/img4'
 
 const Portfolio = () => {
   return (
@@ -56,6 +56,23 @@ Tech Stack : HTML | CSS | Javascript | Express.js | Node.js | MongoDB
          <div className="portfolio__item-cta">
            <a href="https://github.com/Abhishek-Bharti1/Dunzo_clone" className='btn' target='_blank'>Git Hub</a>
          <a href="https://dunzoclonebackend.netlify.app/"className='btn btn-primary' target='_blank'>Live Demo</a>
+         </div>
+         
+     </article>
+
+
+     <article className='portfolio__item'>
+       <div className="portfolio__item-image">
+         <img src={Img4} alt="snapchat" />
+       </div>
+         <h3>Snapchat Clone</h3>
+         <h5 className='h62'>Snapchat.<br />
+
+Tech Stack : HTML | CSS | Javascript | React.js | Redux.js | Firebase
+ </h5>
+         <div className="portfolio__item-cta">
+           <a href="https://github.com/Abhishek-Bharti1/snapchat-clone" className='btn' target='_blank'>Git Hub</a>
+         <a href="https://snapchat-clone-f9bc5.web.app/"className='btn btn-primary' target='_blank'>Live Demo</a>
          </div>
          
      </article>
