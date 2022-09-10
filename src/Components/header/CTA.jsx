@@ -5,7 +5,7 @@ import React from 'react'
 const CTA = () => {
   return (
     <div className='cta'>
-  <a href="https://drive.google.com/file/d/1U2pFAy1QvPVc5W4r9Hmn6Ixb_GWo7XXc/view?usp=sharing" className='btn' target="_blank">My Resume</a>
+  <a href="https://drive.google.com/file/d/1zOLl8ACEb9UDYHyF5C2OPznl4aa41Q0L/view?usp=sharing" className='btn' target="_blank">My Resume</a>
   <a href="#contact" className='btn btn-primary'>Let's Talk</a>
     </div>
   )

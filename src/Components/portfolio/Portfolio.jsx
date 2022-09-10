@@ -30,7 +30,7 @@ Tech Stack : HTML | CSS | Javascript | React.js | Redux.js | Firebase
 
      <article className='portfolio__item'>
        <div className="portfolio__item-image">
-         <img src={Img3} alt="BestBuy" />
+         <img src={Img3} alt="JCrew" />
        </div>
          <h3>J.Crew</h3>
          <h5 className='h61'>J.Crew is one of the most popular E-commerce website in USA . <br />
